@@ -13,7 +13,7 @@
 
 <!-- Status Update -->
 ### ✍️ Currently Working On
-I'm currently working on in private repositories:
+_In development since September 2024:_
 
 **📱 2D Mobile game**  
   ⏱️ Idle Mechanics  
