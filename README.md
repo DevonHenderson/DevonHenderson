@@ -30,12 +30,12 @@ _In development since September 2024:_
 <!-- Life Updates -->
 ### 🧑 Life Updates  
   🏡 Bought a house and currently working on creating a garden  
-  📚 Reading: *The Lovecraft Compendium* – A collection of stories by H.P. Lovecraft  
+  📚 Reading: *The Lord of the Rings: The Fellowship of the Ring* – J.R.R Tolkien
   💼 Career: Recently got an office job in Dunedin. Keeps me busy throughout the week  
 
 ---
 
 <!-- Last Updated -->
 <p align="center">
-  <i>Last updated: <strong>June 1, 2025</strong></i>
+  <i>Last updated: <strong>October 5, 2025</strong></i>
 </p>
