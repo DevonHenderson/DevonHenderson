@@ -25,17 +25,21 @@ _In development since September 2024:_
   ⛰️ Exploration RPG  
   🔎 Random Dungeon Generation  
 
+_Update 2026: Still working on these projects, mostly the 3D game. Non-Euclidean geometry is a nightmare to get right!_
+
 ---
 
 <!-- Life Updates -->
 ### 🧑 Life Updates  
-  🏡 Bought a house and currently working on creating a garden  
-  📚 Reading: *The Lord of the Rings: The Fellowship of the Ring* – J.R.R Tolkien  
-  💼 Career: Recently got an office job in Dunedin. Keeps me busy throughout the week  
+  🏡 Bought a house and enjoying getting out in the garden and workshop 
+  
+  📚 Reading: *The Karazan Quartet (Four Book Series)* – V.M Jones 
+  
+  💼 Career: Started a job in IT in November 2025. Has been keeping me extremely busy throughout the week and loving every minute of it! 
 
 ---
 
 <!-- Last Updated -->
 <p align="center">
-  <i>Last updated: <strong>October 5, 2025</strong></i>
+  <i>Last updated: <strong>February 16, 2026</strong></i>
 </p>
